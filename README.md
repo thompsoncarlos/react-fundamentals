@@ -2,6 +2,7 @@
 
 This project was created based on [Curso React + Redux Fundamentos e 2 Apps do Absoluto ZERO](https://www.udemy.com/share/101qNE3@HgE-PsqAbo4bdVlZ28UA4fzitXSkSB3Eb_UOr3GoBiBkITM-1u9S7cUwxdT_lW8X/)
 
+![react-fundamentals.png](https://repository-images.githubusercontent.com/474047583/00f10730-07de-4016-b287-485e5805ea9f)
 
 ## Getting Started
 
